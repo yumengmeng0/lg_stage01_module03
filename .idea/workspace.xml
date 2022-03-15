@@ -2,88 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e36d55b-d148-4d0e-9aa1-79efb9d92e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JDK 11 API中文帮助文档.CHM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/IntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/01_课件/JavaSE_Chaper11_Mark.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/02_图片/01 equals方法的原理分析.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/02_图片/02 包装类的继承关系.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/02_图片/03 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/03_软件/typora-setup-x64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/BigDecimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/BigIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/BooleanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/CharacterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/DoubleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/IntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/MathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/01任务一 常用类的概述和使用/04_代码/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/01_课件/JavaSE_Chaper12_Mark.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/02_图片/01 String类型引用的指向改变.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/02_图片/02 字符串中字符查找的区别.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/02_图片/03 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringByteCharTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringCharTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringCompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringEqualsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringExamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringIndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringJudgeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringManyMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringRegMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/StringRegTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/02任务二 String类的概述和使用/04_代码/SubStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/01_课件/JavaSE_Chaper13_Mark.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/02_图片/01 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/DateTimeFormatterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/InstantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/LocalDateTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/SimpleDateFormatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/StringBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/03任务三 可变字符串类和日期相关类/04_代码/SystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/01_课件/JavaSE_Chaper14_Mark.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/02_图片/01 集合框架的两张图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/02_图片/02 ArrayList类的底层原理.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/02_图片/03 LinkedList类的底层原理.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/02_图片/04 栈和队列的特性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/02_图片/05 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/CollectionPrintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/ListMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/04任务四 集合类库（上）/04_代码/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/01_课件/JavaSE_Chaper15_Mark.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/01 集合框架的两张图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/02 哈希表的结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/03 元素放入哈希表的过程.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/04 二叉树的基本概念.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/05 有序二叉树的基本概念.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/06 红黑树.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/07 Set集合转换为Map集合的原理.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/02_图片/08 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/ListGenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/SubPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/SubPersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块三Java核心类库（上）/05任务五 集合类库（下）/04_代码/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01/BigDecimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01/BigIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01/DoubleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01/MathTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/p01/IntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p01/IntegerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,12 +55,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -154,7 +81,33 @@
       <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntegerTest">
+  <component name="RunManager" selected="Application.BigIntegerTest">
+    <configuration name="BigDecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p01.BigDecimalTest" />
+      <module name="lg_stage01_module03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p01.BigIntegerTest" />
+      <module name="lg_stage01_module03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p01.IntegerTest" />
       <module name="lg_stage01_module03" />
@@ -183,6 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigIntegerTest" />
+        <item itemvalue="Application.BigDecimalTest" />
         <item itemvalue="Application.IntegerTest" />
         <item itemvalue="Application.StudentTest" />
       </list>
@@ -199,7 +154,10 @@
       <option name="presentableId" value="Default" />
       <updated>1646400364266</updated>
       <workItem from="1646400369154" duration="623000" />
-      <workItem from="1646875651372" duration="5268000" />
+      <workItem from="1646875651372" duration="6006000" />
+      <workItem from="1647176061399" duration="423000" />
+      <workItem from="1647176639051" duration="1542000" />
+      <workItem from="1647306621615" duration="3316000" />
     </task>
     <servers />
   </component>
@@ -222,22 +180,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646879893112" />
-    <state width="929" height="214" key="GridCell.Tab.0.bottom" timestamp="1646881012516">
+    <state width="1076" height="196" key="GridCell.Tab.0.bottom" timestamp="1647309672257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="929" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646881012516" />
-    <state width="929" height="214" key="GridCell.Tab.0.center" timestamp="1646881012516">
+    <state width="1076" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
+    <state width="1076" height="196" key="GridCell.Tab.0.center" timestamp="1647309672257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="929" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646881012516" />
-    <state width="929" height="214" key="GridCell.Tab.0.left" timestamp="1646881012516">
+    <state width="1076" height="196" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
+    <state width="1076" height="196" key="GridCell.Tab.0.left" timestamp="1647309672256">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="929" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646881012516" />
-    <state width="929" height="214" key="GridCell.Tab.0.right" timestamp="1646881012516">
+    <state width="1076" height="196" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672256" />
+    <state width="1076" height="196" key="GridCell.Tab.0.right" timestamp="1647309672257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="929" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646881012516" />
+    <state width="1076" height="196" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
     <state x="1094" y="256" width="647" height="534" key="find.popup" timestamp="1646877104889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -13,9 +13,9 @@
     * java.sql
     
 #### 2.Object类
-* equals
-* hashCode
-* toString
+* equals()
+* hashCode()
+* toString()
 
 
 #### 3.包装类
@@ -24,12 +24,19 @@
     需要对基本数据类型的变量进行打包封装处理变成对象，
     而负责这些变量声明为成员变量进行对象化处理的相关类，叫做包装类
 
+3.2 包装类的使用总结
+    * 基本数据类型转换为对应包装类的方式：valueOf 装箱
+    * 获取包装类中基本数据类型变量数值的方式：xxValue 拆箱
+    * 字符串转换为基本数据类型的方式：parseXX 字符串转类型
 
+3.3 Math类
 
+3.4 BigDecimal类（小数）
+    * 基本概念：由于float类型和double类型在运算时可能会有误差，若希望实现精确运算则借助java.math.BigDecimal类型加以描述。
 
-
-
-
+3.5 BigInteger类
+    * 希望表示比long类型还大的整数，需要java.math.BigInteger类
+    
 
 
 
