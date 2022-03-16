@@ -13,9 +13,9 @@
     * java.sql
     
 #### 2.Object类
-* equals()
-* hashCode()
-* toString()
+    * equals()
+    * hashCode()
+    * toString()
 
 
 #### 3.包装类
@@ -37,18 +37,6 @@
 3.5 BigInteger类
     * 希望表示比long类型还大的整数，需要java.math.BigInteger类
     
-
-
-
-
-
-
-
-
-
-
-
-
 ##二、String类的概述和使用
 ##三、可变字符串类和日期类
 ##四、集合类库（上）

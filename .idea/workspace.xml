@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e36d55b-d148-4d0e-9aa1-79efb9d92e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/String类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/BigDecimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/BigIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/DoubleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringByteCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringEqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringIndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringJudgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringRegexMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringRegexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02/SubStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/p01/IntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p01/IntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String类.md" beforeDir="false" afterPath="$PROJECT_DIR$/String类.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lg_stage01_module03" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,13 +88,13 @@
       <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigIntegerTest">
-    <configuration name="BigDecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01.BigDecimalTest" />
+  <component name="RunManager" selected="Application.StringRegexMethodTest">
+    <configuration name="StringEqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02.StringEqualsTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01.*" />
+          <option name="PATTERN" value="p02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01.BigIntegerTest" />
+    <configuration name="StringIndexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02.StringIndexTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01.*" />
+          <option name="PATTERN" value="p02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01.IntegerTest" />
+    <configuration name="StringRegexMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02.StringRegexMethodTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01.*" />
+          <option name="PATTERN" value="p02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01.StudentTest" />
+    <configuration name="StringRegexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02.StringRegexTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01.*" />
+          <option name="PATTERN" value="p02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02.SubStringTest" />
+      <module name="lg_stage01_module03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BigIntegerTest" />
-        <item itemvalue="Application.BigDecimalTest" />
-        <item itemvalue="Application.IntegerTest" />
-        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.StringRegexMethodTest" />
+        <item itemvalue="Application.StringRegexTest" />
+        <item itemvalue="Application.SubStringTest" />
+        <item itemvalue="Application.StringIndexTest" />
+        <item itemvalue="Application.StringEqualsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +179,10 @@
       <workItem from="1647176061399" duration="423000" />
       <workItem from="1647176639051" duration="1542000" />
       <workItem from="1647306621615" duration="3316000" />
+      <workItem from="1647329806675" duration="4932000" />
+      <workItem from="1647344293754" duration="3378000" />
+      <workItem from="1647394728099" duration="2480000" />
+      <workItem from="1647421341334" duration="2840000" />
     </task>
     <servers />
   </component>
@@ -180,26 +205,48 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646879893112" />
-    <state width="1076" height="196" key="GridCell.Tab.0.bottom" timestamp="1647309672257">
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom" timestamp="1647423745324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647423745324" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state width="1076" height="196" key="GridCell.Tab.0.center" timestamp="1647309672257">
+    <state width="1877" height="215" key="GridCell.Tab.0.center" timestamp="1647423745324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647423745324" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state width="1076" height="196" key="GridCell.Tab.0.left" timestamp="1647309672256">
+    <state width="1877" height="215" key="GridCell.Tab.0.left" timestamp="1647423745323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647423745323" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672256" />
-    <state width="1076" height="196" key="GridCell.Tab.0.right" timestamp="1647309672257">
+    <state width="1877" height="215" key="GridCell.Tab.0.right" timestamp="1647423745324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647423745324" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
+    <state x="484" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1647333973135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647333973135" />
+    <state x="0" y="0" width="727" height="604" maximized="true" key="dock-window-1" timestamp="1647421692586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="727" height="604" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647421692586" />
+    <state x="755" y="0" width="848" height="847" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647338211048" />
+    <state x="1308" y="341" width="848" height="847" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1647400259937" />
     <state x="1094" y="256" width="647" height="534" key="find.popup" timestamp="1646877104889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1094" y="256" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646877104889" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1647421906082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647421906082" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
