@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e36d55b-d148-4d0e-9aa1-79efb9d92e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/DateTimeFormatterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/InstantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/LocalDateTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SimpleDateFormatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/StringBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可变字符串和日期相关类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/01集合框架的两张图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/CollectionIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ListMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/集合类库.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,22 +81,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
       <recent name="E:\lagou\lg_stage01_module03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="p01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\lagou\lg_stage01_module03\image" />
       <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTimeFormatterTest">
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.CalendarTest" />
+  <component name="RunManager" selected="Application.QueueTest">
+    <configuration name="CollectionIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.CollectionIteratorTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeFormatterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.DateTimeFormatterTest" />
+    <configuration name="ListMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.ListMethodTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstantTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.InstantTest" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.ListTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.LocalDateTimeTest" />
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.QueueTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.SimpleDateFormatTest" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.StackTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateTimeFormatterTest" />
-        <item itemvalue="Application.InstantTest" />
-        <item itemvalue="Application.LocalDateTimeTest" />
-        <item itemvalue="Application.CalendarTest" />
-        <item itemvalue="Application.SimpleDateFormatTest" />
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.ListMethodTest" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.CollectionIteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +188,12 @@
       <workItem from="1647394728099" duration="2480000" />
       <workItem from="1647421341334" duration="2891000" />
       <workItem from="1647480235142" duration="3268000" />
-      <workItem from="1647842823148" duration="4410000" />
+      <workItem from="1647842823148" duration="5019000" />
+      <workItem from="1648000855915" duration="1719000" />
+      <workItem from="1648023496850" duration="2900000" />
+      <workItem from="1648119185239" duration="3142000" />
+      <workItem from="1649383922402" duration="2140000" />
+      <workItem from="1649723357133" duration="7369000" />
     </task>
     <servers />
   </component>
@@ -196,6 +204,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1648024529065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648024529065" />
     <state x="552" y="178" key="#Project_Structure" timestamp="1646876568196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -204,56 +216,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1646879756935" />
-    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1646879893112">
+    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1648023954680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648023954680" />
     <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646879893112" />
-    <state width="1892" height="180" key="GridCell.Tab.0.bottom" timestamp="1647846638071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1193" height="261" key="GridCell.Tab.0.bottom" timestamp="1649754163786">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="180" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647846638071" />
+    <state width="1193" height="261" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state width="1892" height="180" key="GridCell.Tab.0.center" timestamp="1647846638071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1193" height="261" key="GridCell.Tab.0.center" timestamp="1649754163786">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="180" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647846638071" />
+    <state width="1193" height="261" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state width="1892" height="180" key="GridCell.Tab.0.left" timestamp="1647846638071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1193" height="261" key="GridCell.Tab.0.left" timestamp="1649754163786">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="180" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647846638071" />
+    <state width="1193" height="261" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672256" />
-    <state width="1892" height="180" key="GridCell.Tab.0.right" timestamp="1647846638071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1193" height="261" key="GridCell.Tab.0.right" timestamp="1649754163786">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="180" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647846638071" />
+    <state width="1193" height="261" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state x="689" y="269" width="582" height="524" key="StructurePopup" timestamp="1647845372518">
+    <state x="689" y="269" width="582" height="524" key="StructurePopup" timestamp="1648120223195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="269" width="582" height="524" key="StructurePopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647845372518" />
-    <state x="484" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1647333973135">
+    <state x="689" y="269" width="582" height="524" key="StructurePopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648120223195" />
+    <state x="484" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648025448172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="484" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648025448172" />
     <state x="484" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647333973135" />
-    <state x="1308" y="341" width="848" height="847" maximized="true" key="dock-window-1" timestamp="1647842873315">
+    <state x="1308" y="341" width="848" height="847" maximized="true" key="dock-window-1" timestamp="1648000864115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="963" y="0" width="730" height="847" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647492840838" />
     <state x="755" y="0" width="848" height="847" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647338211048" />
-    <state x="1308" y="341" width="848" height="847" maximized="true" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1647842873315" />
+    <state x="1308" y="341" width="848" height="847" maximized="true" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1648000864115" />
     <state x="1094" y="256" width="647" height="534" key="find.popup" timestamp="1646877104889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1094" y="256" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646877104889" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1647421906082">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1648120204298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1647421906082" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648120204298" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
