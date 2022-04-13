@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e36d55b-d148-4d0e-9aa1-79efb9d92e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/01集合框架的两张图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/CollectionIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ListMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/集合类库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/ListGenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/SubPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/SubPersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/TreeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合类库.md" beforeDir="false" afterPath="$PROJECT_DIR$/集合类库.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,25 +83,25 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
-      <recent name="E:\lagou\lg_stage01_module03" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="p01" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\lagou\lg_stage01_module03\image" />
       <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="p01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\lagou\lg_stage01_module03\src\main\resources" />
+      <recent name="E:\lagou\lg_stage01_module03" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.QueueTest">
-    <configuration name="CollectionIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p04.CollectionIteratorTest" />
+  <component name="RunManager" selected="Application.TreeSetTest">
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.HashSetTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p04.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p04.ListMethodTest" />
+    <configuration name="ListGenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.ListGenericTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p04.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p04.ListTest" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.PersonTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p04.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p04.StackTest" />
+    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.TreeSetTest" />
       <module name="lg_stage01_module03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p04.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetTest" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.ListGenericTest" />
         <item itemvalue="Application.QueueTest" />
-        <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.ListMethodTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.CollectionIteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +196,8 @@
       <workItem from="1648023496850" duration="2900000" />
       <workItem from="1648119185239" duration="3142000" />
       <workItem from="1649383922402" duration="2140000" />
-      <workItem from="1649723357133" duration="7369000" />
+      <workItem from="1649723357133" duration="7539000" />
+      <workItem from="1649812075794" duration="9608000" />
     </task>
     <servers />
   </component>
@@ -216,36 +220,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1646879756935" />
-    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1648023954680">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648023954680" />
-    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646879893112" />
-    <state width="1193" height="261" key="GridCell.Tab.0.bottom" timestamp="1649754163786">
+    <state x="-698" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1649834649479">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1193" height="261" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state x="-698" y="239" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649834649479" />
+    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648023954680" />
+    <state x="1222" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646879893112" />
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1649835179659">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649835179659" />
     <state width="1877" height="261" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state width="1193" height="261" key="GridCell.Tab.0.center" timestamp="1649754163786">
+    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1649835179659">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1193" height="261" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="258" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649835179659" />
     <state width="1877" height="261" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
-    <state width="1193" height="261" key="GridCell.Tab.0.left" timestamp="1649754163786">
+    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1649835179659">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1193" height="261" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="258" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649835179659" />
     <state width="1877" height="261" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672256" />
-    <state width="1193" height="261" key="GridCell.Tab.0.right" timestamp="1649754163786">
+    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1649835179659">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1193" height="261" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649754163786" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649835179659" />
     <state width="1877" height="261" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1649730382201" />
     <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1647334139354" />
     <state width="1076" height="196" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647309672257" />
@@ -268,9 +273,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1094" y="256" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646877104889" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1648120204298">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1649834645288">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1649834645288" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1648120204298" />
   </component>
   <component name="XDebuggerManager">
